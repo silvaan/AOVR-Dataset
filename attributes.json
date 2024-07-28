@@ -1,0 +1,37 @@
+{
+    "shape": [
+        "cylinder",
+        "cube",
+        "torus",
+        "cone",
+        "sphere"
+    ],
+    "color": [
+        "blue",
+        "magenta",
+        "black",
+        "red",
+        "orange",
+        "purple",
+        "green",
+        "yellow",
+        "cyan"
+    ],
+    "material": [
+        "metal",
+        "rubber"
+    ],
+    "container": [
+        "floor",
+        "shelf_bottom",
+        "shelf_top",
+        "table_top",
+        "table_under",
+        "crate",
+        "box"
+    ],
+    "size": [
+        "small",
+        "big"
+    ]
+}
